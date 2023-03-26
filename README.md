@@ -1,4 +1,4 @@
-<h3 align="left">Alec Blade 🗡️</h3>
+<h1 align="left">Alec Blade 🗡️</h1>
 
 <h3 align="center">Data head who is passionate about programming and making data and statistics interpretable to all.</h3>
 
