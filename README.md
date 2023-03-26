@@ -1,5 +1,5 @@
 <h1 align="left">Alec Blade </h1>
-
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 <i class="fa-sharp fa-solid fa-knife fa-bounce" style="color: #f7020f;"></i>
 
 <h3 align="center">Data head who is passionate about programming and making data and statistics interpretable to all.</h3>
