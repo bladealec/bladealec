@@ -1,8 +1,14 @@
-<h3 align="left">Alec Blade 🗡️.</h3>
+<h3 align="left">Alec Blade 🗡️</h3>
 
 <h3 align="center">Data head who is passionate about programming and making data and statistics interpretable to all.</h3>
 
+Background:
+I have completed 129 hours at the University of Tennessee Chattanooga (ABET accredited). While at university, I studied Mechanical Engineering and aided in computational fluid dynamics and particle imaging velocimetry research.
 
+I am currently attending Nashville Software School (NSS) to study data analytics. After graduating NSS, I plan to pursue an entry-level position in data analytics. My NSS graduation will occur on 04/28/2023. Once I have obtained a data analytics role, I will be interested in finishing my degree as a part-time student.
+
+Interest:
+I have always been interested in solving problems with computational methods. Data analytics has attracted me through the plethora of computational tools and the requirement for analytical and logical thinking
 
 - 🛠 I’m currently working on [Web scrapping job postings](https://github.com/bladealec/datajob_postings)
 
