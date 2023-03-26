@@ -1,4 +1,4 @@
-<h1 align="left">Alec Blade <i class="fa-sharp fa-solid fa-knife"></i></h1>
+<h1 align="left">Alec Blade </h1> <i class="fa-sharp fa-solid fa-knife"></i>
 
 <h3 align="center">Data head who is passionate about programming and making data and statistics interpretable to all.</h3>
 
