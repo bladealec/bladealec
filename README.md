@@ -9,7 +9,7 @@ I am currently attending Nashville Software School (NSS) to study data analytics
 
 <h3 align="left">Interest:</h3>
 
-- 🛠 I’m currently working on [Web scrapping job postings](https://github.com/bladealec/datajob_postings)
+- 🛠 I’m currently working on [Socrata API](https://github.com/bladealec/socrata_api)
 
 - 👨‍💻 I’m currently learning Python: webscrapping, api based scrapping
 
