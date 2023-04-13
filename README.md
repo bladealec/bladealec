@@ -9,7 +9,7 @@ I am currently attending Nashville Software School (NSS) to study data analytics
 
 <h3 align="left">Interest:</h3>
 
-- 👨‍💻 I’m currently working on [My NSS Capstone]([https://github.com/NSS-Full-Time-Data-Analytics-9/alec_capstone])
+- 👨‍💻 I’m currently working on [My NSS Capstone](https://github.com/NSS-Full-Time-Data-Analytics-9/alec_capstone)
 
 <h3 align="left">Connect:</h3
 
