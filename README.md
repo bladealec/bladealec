@@ -7,7 +7,7 @@ I am currently attending Nashville Software School (NSS) to study data analytics
 
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBiMWM3NzUwNjQ2ODg5NDExNWRmYjZlNWUyMmFiMmE4NGNlOTMxMCZjdD1n/HUplkVCPY7jTW/giphy.gif">
 
-<h3 align="left">Interest:</h3>
+<h3 align="left">Projects:</h3>
 
 - 👨‍💻 I’m currently working on [My NSS Capstone](https://github.com/NSS-Full-Time-Data-Analytics-9/alec_capstone)
 
