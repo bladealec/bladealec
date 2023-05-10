@@ -9,10 +9,11 @@ I am currently attending Nashville Software School (NSS) to study data analytics
 
 <h3 align="left">Projects:</h3>
 
-- 👨‍💻 I’m currently working on [My NSS Capstone](https://github.com/NSS-Full-Time-Data-Analytics-9/alec_capstone)
+- Look at my [website](https://www.datablade.website/home) 👨‍💻
+- I’m currently working on [MLS Player Analysis](https://github.com/bladealec/mls_stats-bladealec)
 
 <h3 align="left">Connect:</h3
-
+  
 <a href="https://gmail.com/alecblade0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" alt="bladealec0" height="25" width="35" /></a>
 &nbsp; &nbsp;
 <a href="https://linkedin.com/in/alec-blade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alec-blade" height="30" width="40" /></a>
