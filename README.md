@@ -9,7 +9,6 @@
 <h3 align="left">Projects:</h3>
 
 - Look at my [website](https://www.datablade.website/home) 👨‍💻
-- I’m currently working on [Machine Learning](https://github.com/bladealec/machine_learning_practice)
 
 <h3 align="left">Connect:</h3
   
