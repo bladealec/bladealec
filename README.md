@@ -27,6 +27,4 @@
 &nbsp;
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="powerbi" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=bladealec&show_icons=true&locale=en" alt="bladealec",
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bladealec&" alt="bladealec", /></p>
