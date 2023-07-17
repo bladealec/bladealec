@@ -28,3 +28,4 @@
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="powerbi" width="40" height="40"/> </a> </p>
 
 
+[<img src="https://profile-music.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/bladealec)
