@@ -27,4 +27,9 @@
 &nbsp;
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="powerbi" width="40" height="40"/> </a> </p>
 
-[![Spotify](https://profile-music-bladealec.vercel.app/api/spotify)](https://open.spotify.com/user/bladealec)
+<h3 align="left">What I'm Listening to:</h3>
+<p align="left">
+  <a href="https://open.spotify.com/user/bladealec">
+    <img src="https://profile-music-bladealec.vercel.app/api/spotify" alt="Spotify" width="600">
+  </a>
+</p>
