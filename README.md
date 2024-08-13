@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="850" src="https://media.licdn.com/dms/image/D4E16AQGEVVe11Gphww/profile-displaybackgroundimage-shrink_350_1400/0/1678635090849?e=1702512000&v=beta&t=rfmLYvcobdOyYD2W3HDVa8-H-PQpDXcJ3IYg1sndyC8"><br><br><br><br><br><br><br><br><br><br><br>
+<img align="right" alt="Coding" width="850" src="https://media.licdn.com/dms/image/D4E16AQHxGYybaZvIYg/profile-displaybackgroundimage-shrink_350_1400/0/1712721720278?e=1729123200&v=beta&t=EZ22Yc5yErp9J7ft-0Eh1QQayZTlaciJ7WOTwfNd2E0"><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="left">Background:</h3>
-<p>Data analyst with a mechanical engineering background, driven by a deep curiosity for computers and programming. My passion ignited when I wrote my inaugural script in 2021, granting me a newfound appreciation for the world of computing. Ever since, I've been actively pursuing a career that allows me to further develop my programming skills, excel in data interpretation, and create captivating data visualizations.<br> 
+<p>Data analyst with a mechanical engineering background, driven by a deep curiosity for computers and programming. My passion ignited when I wrote my inaugural script in 2021, granting me a newfound appreciation for the world of computing. Ever since, I've been actively pursuing a career that allows me to further develop my programming and data interpretation skills.<br> 
 </p>
 
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBiMWM3NzUwNjQ2ODg5NDExNWRmYjZlNWUyMmFiMmE4NGNlOTMxMCZjdD1n/HUplkVCPY7jTW/giphy.gif">
