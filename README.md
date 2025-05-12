@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="850" src="https://media.licdn.com/dms/image/D4E16AQHxGYybaZvIYg/profile-displaybackgroundimage-shrink_350_1400/0/1712721720278?e=1729123200&v=beta&t=EZ22Yc5yErp9J7ft-0Eh1QQayZTlaciJ7WOTwfNd2E0"><br><br><br><br><br><br><br><br><br><br><br>
 
-I am currently studying Mechanical Engineering at the University of Tennessee Chattanooga, set to graduate in spring 2025. Alongside my coursework, I pursued a data analytics certificate at Nashville Software School, where I developed proficiency in data manipulation, statistical analysis, and programming languages like Python and SQL. This dual background has equipped me with a strong foundation in engineering principles and advanced data analytics, preparing me to contribute effectively in both individual and team roles within a dynamic company.
+I have recently obtained my Bacholer's Degree in Mechanical Engineering at the University of Tennessee Chattanooga. Alongside my coursework, I pursued a data analytics certificate at Nashville Software School, where I developed proficiency in data manipulation, statistical analysis, and programming languages like Python and SQL. This dual background has equipped me with a strong foundation in engineering principles and advanced data analytics, preparing me to contribute effectively in both individual and team roles within a dynamic company.
 
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBiMWM3NzUwNjQ2ODg5NDExNWRmYjZlNWUyMmFiMmE4NGNlOTMxMCZjdD1n/HUplkVCPY7jTW/giphy.gif">
 
@@ -31,11 +31,3 @@ I am currently studying Mechanical Engineering at the University of Tennessee Ch
 
 </p>
 
-
-
-<h3 align="left">What I'm Listening to:</h3>
-<p align="left">
-  <a href="https://open.spotify.com/user/bladealec">
-    <img src="https://profile-music-bladealec.vercel.app/api/spotify" alt="Spotify" width="600">
-  </a>
-</p>
